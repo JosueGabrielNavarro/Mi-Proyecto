@@ -8,7 +8,6 @@ Hola, voy a mostrar mi mini proyecto. Empece hace poco a c++ y solo es un progra
 en mi pais si quieres calcular un precio sin IVA*/
 
 #include <iostream>
-
 using namespace std;
 
 int main()
